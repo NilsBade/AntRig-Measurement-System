@@ -1,1 +1,1 @@
-![PreLaunchFigure](/figures/Launch_in_progress_banner.svg)
+![PreLaunchFigure](/figures/Launch_in_progress_banner.png)
