@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="710mm" height="597mm" viewBox="0 0 710 597">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <path d="M695,482 L710,467 L710,15 L695,0 L15,0 L0,15 L0,467 L15,482 L35,482 L115,562 L115,582 L130,597 L580,597 L595,582 L595,562 L675,482 L695,482 Z "/>
+        <circle cx="355" cy="403.5" r="2.5"/>
+        <circle cx="355" cy="563.5" r="2.5"/>
+        <circle cx="355" cy="298.5" r="2.5"/>
+        <circle cx="355" cy="33.5" r="2.5"/>
+        <circle cx="675" cy="298.5" r="2.5"/>
+        <circle cx="35" cy="298.5" r="2.5"/>
+        <circle cx="275" cy="298.5" r="2.5"/>
+        <circle cx="435" cy="298.5" r="2.5"/>
+        <circle cx="355" cy="273.5" r="2.5"/>
+        <circle cx="355" cy="483.5" r="2.5"/>
+        <circle cx="355" cy="323.5" r="2.5"/>
+        <circle cx="355" cy="113.5" r="2.5"/>
+        <circle cx="595" cy="298.5" r="2.5"/>
+        <circle cx="115" cy="298.5" r="2.5"/>
+        <circle cx="195" cy="298.5" r="2.5"/>
+        <circle cx="515" cy="298.5" r="2.5"/>
+        <circle cx="355" cy="193.5" r="2.5"/>
+        <circle cx="695" cy="43" r="4.5"/>
+        <circle cx="695" cy="87.5" r="3.25"/>
+        <circle cx="15" cy="117" r="4.5"/>
+        <circle cx="520" cy="358.5" r="2.75"/>
+        <circle cx="190" cy="358.5" r="2.75"/>
+        <circle cx="15" cy="72.5" r="3.25"/>
+        <circle cx="695" cy="370" r="4.5"/>
+        <circle cx="695" cy="414.5" r="3.25"/>
+        <circle cx="557" cy="582" r="4.5"/>
+        <circle cx="512.5" cy="582" r="3.25"/>
+        <circle cx="392" cy="582" r="4.5"/>
+        <circle cx="227" cy="582" r="4.5"/>
+        <circle cx="347.5" cy="582" r="3.25"/>
+        <circle cx="15" cy="399.5" r="3.25"/>
+        <circle cx="15" cy="370" r="4.5"/>
+        <circle cx="15" cy="444" r="4.5"/>
+        <circle cx="15" cy="414.5" r="3.25"/>
+        <circle cx="182.5" cy="582" r="3.25"/>
+        <circle cx="153" cy="582" r="4.5"/>
+        <circle cx="318" cy="582" r="4.5"/>
+        <circle cx="197.5" cy="582" r="3.25"/>
+        <circle cx="362.5" cy="582" r="3.25"/>
+        <circle cx="483" cy="582" r="4.5"/>
+        <circle cx="527.5" cy="582" r="3.25"/>
+        <circle cx="695" cy="444" r="4.5"/>
+        <circle cx="695" cy="399.5" r="3.25"/>
+        <circle cx="15" cy="43" r="4.5"/>
+        <circle cx="190" cy="238.5" r="2.75"/>
+        <circle cx="520" cy="238.5" r="2.75"/>
+        <circle cx="15" cy="87.5" r="3.25"/>
+        <circle cx="695" cy="117" r="4.5"/>
+        <circle cx="695" cy="72.5" r="3.25"/>
+    </g>
+</svg>

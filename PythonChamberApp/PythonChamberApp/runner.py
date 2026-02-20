@@ -1,0 +1,23 @@
+"""
+This is the entry point to start the PythonChamberApp.
+Executing this script imports all necessary modules, initializes all classes and opens the userinterface.
+"""
+import ctypes
+import sys
+import process_controller
+import os
+
+if __name__ == "__main__":
+    # add extra dll paths before import pyvisa to be able to use keysight pyvisa implementation
+    # PATHS MAY BE ADAPTED DEPENDENT ON THE INSTALLATION PATH OF THE KEYSIGHT IO LIBRARIES SUITE
+    # os.add_dll_directory('C:\\Program Files\\Keysight\\IO Libraries Suite\\bin')
+    # os.add_dll_directory('C:\\Program Files (x86)\\Keysight\\IO Libraries Suite\\bin')
+
+    myappid = "AntRig PythonChamberApp"
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)  # Modify ID to enable custom taskbar icon in Windows
+
+    measurement_process_controller = process_controller.ProcessController()
+
+    sys.exit(measurement_process_controller.gui_app.exec())
+
+

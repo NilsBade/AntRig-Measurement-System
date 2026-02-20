@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="710mm" height="283mm" viewBox="0 0 710 283">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <path d="M590,5 L585,0 L125,0 L120,5 L120,35 L40,115 L5,115 L0,120 L0,203 L5,208 L40,208 L115,283 L595,283 L670,208 L705,208 L710,203 L710,120 L705,115 L670,115 L590,35 L590,5 Z "/>
+        <circle cx="15" cy="198.5" r="4.5"/>
+        <circle cx="15" cy="169" r="3.25"/>
+        <circle cx="15" cy="154" r="3.25"/>
+        <circle cx="15" cy="124.5" r="4.5"/>
+        <circle cx="347.5" cy="15" r="3.25"/>
+        <circle cx="318" cy="15" r="4.5"/>
+        <circle cx="362.5" cy="15" r="3.25"/>
+        <circle cx="392" cy="15" r="4.5"/>
+        <circle cx="35" cy="161.5" r="2.5"/>
+        <circle cx="695" cy="198.5" r="4.5"/>
+        <circle cx="695" cy="169" r="3.25"/>
+        <circle cx="695" cy="154" r="3.25"/>
+        <circle cx="695" cy="124.5" r="4.5"/>
+        <circle cx="195" cy="161.5" r="2.5"/>
+        <circle cx="190" cy="221.5" r="2.75"/>
+        <circle cx="190" cy="101.5" r="2.75"/>
+        <circle cx="520" cy="221.5" r="2.75"/>
+        <circle cx="520" cy="101.5" r="2.75"/>
+        <circle cx="355" cy="161.5" r="2.5"/>
+        <circle cx="435" cy="161.5" r="2.5"/>
+        <circle cx="515" cy="161.5" r="2.5"/>
+        <circle cx="595" cy="161.5" r="2.5"/>
+        <circle cx="275" cy="161.5" r="2.5"/>
+        <circle cx="115" cy="161.5" r="2.5"/>
+        <circle cx="675" cy="161.5" r="2.5"/>
+    </g>
+</svg>
