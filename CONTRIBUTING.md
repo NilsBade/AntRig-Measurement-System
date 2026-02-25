@@ -2,7 +2,7 @@
 
 Firstly, thank you for your interest in contributing to the AntRig project!
 It is the goal of this project to provide the research community with a powerful, flexible, yet cost-effective measurement system solution.
-By collecting all the ideas and contributions from different teams within the open-source approach, we hope to develop a system that as versatile and useful as possible.
+By collecting all the ideas and contributions from different teams within the open-source approach, we hope to develop a system that is as versatile and useful as possible.
 It is your contributions that will help to achieve this goal!
 
 ## How to Contribute
