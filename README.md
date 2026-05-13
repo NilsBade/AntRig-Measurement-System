@@ -325,7 +325,7 @@ This assures, that all figures and symbols are found and correctly displayed in 
 > ![PycharmRunnerConfig](/figures/Readme/PycharmRunnerConfiguration.png)
 > In the upper box the used interpreter is defined, which has all necessary packages installed to run and display the app.
 > The second line defines the path to the runner script that starts up the whole application.
-> In the lower box the working directory is defined for the configured execution. It is the most general 'PythonChamberApp' directory in this repository! This directory functions as workspace/origin for the development of the application.
+> In the lower box the working directory is defined for the configured execution. This must be the root directory of the repository to enable access to the result directory when the app is running! It is the workspace/origin for the development of the application.
 
 ## Usage example
 
