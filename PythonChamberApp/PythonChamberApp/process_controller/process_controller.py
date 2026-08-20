@@ -1080,9 +1080,8 @@ class ProcessController:
                                                "Unknown Zero Position")
             return
         #   Setup results directory
-        path_workdirectory = os.path.dirname(os.getcwd())
-        if not os.path.exists(os.path.join(path_workdirectory + '/results')):
-            os.makedirs(os.path.join(path_workdirectory + '/results'))
+        if not os.path.exists(os.path.join(os.getcwd() + '/results')):
+            os.makedirs(os.path.join(os.getcwd() + '/results'))
         path_results_folder = os.path.join(os.getcwd() + '/results')
 
         #   Check if filename(s) are valid, avoid override
@@ -1355,7 +1354,7 @@ class ProcessController:
         """
         file_list = [] # delete?
         # Get path to PythonChamberApp directory or prompt warning
-        path_PythonChamberApp = os.getcwd()   # should lead to lower PythonChamberApp directory
+        path_PythonChamberApp = os.getcwd()
         path_results_directory = path_PythonChamberApp + "\\results"
         if os.path.isdir(path_results_directory) is False:
             self.gui_mainWindow.update_status_bar("Path-Error occurred while searching for available measurement-files")
