@@ -23,7 +23,8 @@ This is a collection of publications that describe or make use of the AntRig-Mea
 * B. Tegowski, D. Langer, N. C. Albrecht and A. Koelpin, "Analysis of the Radar Channel and Its Variability in Vital-Sign Sensing Applications," in IEEE Transactions on Antennas and Propagation, vol. 74, no. 2, pp. 1980-1992, Feb. 2026, doi: 10.1109/TAP.2025.3641214. **[OPEN ACCESS]** - [LINK to IEEE Xplore](https://ieeexplore.ieee.org/document/11299430)
 * B. Tegowski, D. Langer, N. C. Albrecht and A. Koelpin, "Fast Determination of the Monostatic Radar Channel in the Near-Field of Electrically Large Targets," 2025 55th European Microwave Conference (EuMC), Utrecht, Netherlands, 2025, pp. 610-613, doi: 10.23919/EuMC65286.2025.11235152. - [LINK to IEEE Xplore](https://ieeexplore.ieee.org/document/11235152)
 
-> [!INFO] If you replicate and use the AntRig system to generate measurement data or similar, you are welcome to request adding your related publication to this list via an issue!
+> [!NOTE] 
+> If you replicate and use the AntRig system to generate measurement data or similar, you are welcome to request adding your related publication to this list via an issue!
 
 
 ## Repository Overview
