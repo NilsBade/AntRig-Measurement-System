@@ -17,6 +17,15 @@ This file gives you a quick overview of the project, its goals and what can be f
 * Enable **easy replication and modification** of the system for anyone, for any measurement task
 * Collect ideas and concepts from different fields & teams to come up with the **most effective and versatile measurement-system-base**
 
+## Documentation and Applications in Science
+This is a collection of publications that describe or make use of the AntRig-Measurement-System:
+* N. Bade, D. Langer and A. Koelpin, "Design and Validation of a Compact Radio Frequency Measurement System for Volumetric Near-Field Scans," in IEEE Open Journal of Instrumentation and Measurement, doi: 10.1109/OJIM.2026.3728937. **[OPEN ACCESS, Base Article]** - [LINK to IEEE Xplore](https://ieeexplore.ieee.org/document/11672788)
+* B. Tegowski, D. Langer, N. C. Albrecht and A. Koelpin, "Analysis of the Radar Channel and Its Variability in Vital-Sign Sensing Applications," in IEEE Transactions on Antennas and Propagation, vol. 74, no. 2, pp. 1980-1992, Feb. 2026, doi: 10.1109/TAP.2025.3641214. **[OPEN ACCESS]** - [LINK to IEEE Xplore](https://ieeexplore.ieee.org/document/11299430)
+* B. Tegowski, D. Langer, N. C. Albrecht and A. Koelpin, "Fast Determination of the Monostatic Radar Channel in the Near-Field of Electrically Large Targets," 2025 55th European Microwave Conference (EuMC), Utrecht, Netherlands, 2025, pp. 610-613, doi: 10.23919/EuMC65286.2025.11235152. - [LINK to IEEE Xplore](https://ieeexplore.ieee.org/document/11235152)
+
+> [!INFO] If you replicate and use the AntRig system to generate measurement data or similar, you are welcome to request adding your related publication to this list via an issue!
+
+
 ## Repository Overview
 The __AntRig-Measurement-System__ is developed with a focus on modularity.
 It is divided into three subsystems:
@@ -529,5 +538,5 @@ Author:\
 Nils Bade – n.bade@tuhh.de, [GitHub](https://github.com/NilsBade)
 
 Organisation:\
-Technical University of Hamburg (TUHH) – [Homepage](https://www.tuhh.de/tuhh/en/startpage)\
+Hamburg University of Technology (TU Hamburg) – [Homepage](https://www.tuhh.de/tuhh/en/startpage)\
 Institute of High Frequency Technology (IHF) - [Institute Homepage](https://www.tuhh.de/et3/en/start)
